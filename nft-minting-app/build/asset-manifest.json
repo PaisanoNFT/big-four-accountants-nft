@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/big-four-accountants-nft/static/css/main.da93fdc1.chunk.css",
+    "main.js": "/big-four-accountants-nft/static/js/main.2845f7e6.chunk.js",
+    "main.js.map": "/big-four-accountants-nft/static/js/main.2845f7e6.chunk.js.map",
+    "runtime-main.js": "/big-four-accountants-nft/static/js/runtime-main.42970964.js",
+    "runtime-main.js.map": "/big-four-accountants-nft/static/js/runtime-main.42970964.js.map",
+    "static/js/2.eb0adadc.chunk.js": "/big-four-accountants-nft/static/js/2.eb0adadc.chunk.js",
+    "static/js/2.eb0adadc.chunk.js.map": "/big-four-accountants-nft/static/js/2.eb0adadc.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/big-four-accountants-nft/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/big-four-accountants-nft/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/big-four-accountants-nft/index.html",
+    "static/css/main.da93fdc1.chunk.css.map": "/big-four-accountants-nft/static/css/main.da93fdc1.chunk.css.map",
+    "static/js/2.eb0adadc.chunk.js.LICENSE.txt": "/big-four-accountants-nft/static/js/2.eb0adadc.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/big-four-accountants-nft/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42970964.js",
+    "static/js/2.eb0adadc.chunk.js",
+    "static/css/main.da93fdc1.chunk.css",
+    "static/js/main.2845f7e6.chunk.js"
+  ]
+}

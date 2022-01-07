@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x76bEa2c327DCcd53Af67e3F4C0E9A31a60cA9dFF",
+  "SCAN_LINK": "https://polygonscan.com/token/0x76bEa2c327DCcd53Af67e3F4C0E9A31a60cA9dFF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Big Four Accountants",
+  "SYMBOL": "TB4A",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-big-four-accountants",
+  "SHOW_BACKGROUND": true
+}
